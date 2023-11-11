@@ -3,6 +3,7 @@ pipeline {
 	agent any
 /*	
 	tools {
+        testing the comit trigger
         maven "maven3"
 	
     }
